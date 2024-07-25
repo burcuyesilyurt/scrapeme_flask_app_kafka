@@ -31,7 +31,7 @@ This repository features a Dockerized app that does it all: scrapes web data, se
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/burcuyesilyurt/scrapeme_flask_app_kafka.git
 cd your-repo
 ```
 
@@ -47,7 +47,7 @@ This command will build the Docker images and start the services defined in `doc
 
 #### Web Scraping and Kafka
 
-1. The `scrape_flask_app.py` script will scrape data from the website and send it to the Kafka topic.
+1. The `scrapeme_flask_app.py` script will scrape data from the website and send it to the Kafka topic.
 2. Data will be stored in the `kafka_data.json` file.
 
 #### Access the Flask API

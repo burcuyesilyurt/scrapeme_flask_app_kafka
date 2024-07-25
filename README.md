@@ -30,11 +30,6 @@ This repository features a Dockerized app that does it all: scrapes web data, se
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/burcuyesilyurt/scrapeme_flask_app_kafka.git
-cd your-repo
-```
-
 ### 2. Build and Start the Containers
 
 ```bash

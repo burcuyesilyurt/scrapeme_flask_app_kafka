@@ -47,8 +47,8 @@ This command will build the Docker images and start the services defined in `doc
 
 #### Access the Flask API
 
-- Navigate to `http://localhost:5000/data` in your web browser or use a tool like `curl` or `Postman` to view the data stored in `kafka_data.json`.
+- Navigate to `http://localhost:5001/data` in your web browser or use a tool like `curl` or `Postman` to view the data stored in `kafka_data.json`.
 
 ```bash
-curl http://localhost:5000/data
+curl http://localhost:5001/data
 ```

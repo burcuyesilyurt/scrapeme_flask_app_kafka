@@ -1,0 +1,5 @@
+Flask==2.2.3
+werkzeug==2.3.0
+kafka-python==2.0.2
+beautifulsoup4==4.12.2
+requests==2.31.0

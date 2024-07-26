@@ -48,3 +48,7 @@ This command will build the Docker images and start the services defined in `doc
 ```bash
 curl http://localhost:5001/data
 ```
+
+## Troubleshooting
+
+If you encounter an error related to port usage, make sure that port 5001 is not being used by another program. You can change the port in scrape_flask_app.py, Dockerfile, and docker-compose.yml if needed. After making changes, rebuild and restart the Docker containers.

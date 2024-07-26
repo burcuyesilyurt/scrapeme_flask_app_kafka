@@ -1,9 +1,5 @@
 # Description:
 
-# Web Scraping and Kafka Messaging with Flask
-
-This repository features a Dockerized app that does it all: scrapes web data, sends it to Kafka, and serves it through a REST API. Built with Python and Flask, this setup is easily managed with Docker and Docker Compose.
-
 ## Project Overview
 
 1. **Web Scraping**: Scrapes data from the website [scrapeme.live](https://scrapeme.live/shop/) and extracts product details.
